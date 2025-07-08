@@ -1,4 +1,5 @@
 # docker-compose.yml
+# 각 서비스에 대한 이미지 빌드 > 실행
 #  실행파일
 services:
   # 서비스명
